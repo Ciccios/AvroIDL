@@ -1,0 +1,12 @@
+@namespace("com.nice")
+protocol Mail {
+
+    record Message {
+        string to;
+        string from;
+        string body;
+    }
+
+    string send(Message message);
+
+}
