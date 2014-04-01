@@ -1,4 +1,4 @@
-AvroIDL
+AvroIDL (Interface Definition Language)
 =======
 
 How to create a protocol with Avro IDL
